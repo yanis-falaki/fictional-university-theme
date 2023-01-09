@@ -30,7 +30,6 @@ while (have_posts()) {
   </div>
 <?php }
 echo paginate_links();
-// I made a change again
 ?>
 </div>
 <!-------------------------------------------------------->
